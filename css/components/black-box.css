@@ -1,4 +1,4 @@
-.services{
+.black-box{
 	background-color: black;
 	color: white;
 	padding: 50px 50px;
@@ -6,7 +6,7 @@
 
 }
 
-.services h2{
+.black-box h2{
 	margin: 0px 0px;
 	font-size: 24px;
 	opacity: 0.8;
