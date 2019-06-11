@@ -48,5 +48,15 @@ a:hover {
 }
 
 p{
-  margin: 15px;
+margin: 15px 0px;
 }
+
+/* media*/
+
+
+
+
+@media(max-width: 1400px){
+
+}
+
